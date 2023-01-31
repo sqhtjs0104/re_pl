@@ -23,7 +23,6 @@ import CreateTheme from "./pages/Main/CreateTheme";
 import Bulletin from "./pages/bulletin/Bulletin";
 import NewPost from "./pages/bulletin/NewPost";
 import PostView from "./pages/bulletin/PostView";
-import MakeCuration from "./components/mypage/MakeCuration";
 
 const App = memo(() => {
   return (
