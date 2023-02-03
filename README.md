@@ -10,9 +10,8 @@
 [서보선](https://github.com/sqhtjs0104), [권채림](https://github.com/zzemoo), [유지인](https://github.com/xoxoinny0) , [장윤신](https://github.com/yun-sin)
 
 ## 문서
-- [최종 보고서](./re_pl보고서.pptx)
-- [화면설계서](./화면설계서.pptx)
-- [목업 마인드맵](./마인드맵+목업.png)
+- [최종 보고서](./re_pl보고서.pdf)
+- [화면설계서](./화면설계서.pdf)
 
 ## 사용 스킬
 
