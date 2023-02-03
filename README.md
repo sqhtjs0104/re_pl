@@ -61,7 +61,7 @@
 - 서버의 로컬 환경에서만 실행 가능(MySQL 처리 관련)   
 -> Linux 서버 내 SQL 이식, SSH 키를 이용해 동작 중인 Linux 서버의 DB에 접속하도록 수정, 또한 build를 통해 생성된 리액트 배포파일 호스팅(gh-page 등)
  
-## Output
+## 결과 예시 화면
 ![IMG](./capture/main.png)
 ![IMG](./capture/map.png)
 ![IMG](./capture/searchTheme.png)
